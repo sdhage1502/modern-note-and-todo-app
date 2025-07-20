@@ -1,0 +1,25 @@
+{
+  "name": "modern-calendar-and-todo-app",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "firebase": "^10.13.1",
+    "next": "^15.0.1",
+    "next-themes": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "date-fns": "^3.6.0",
+    "zustand": "^4.5.4",
+    "tailwindcss": "^4.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^15.0.7",
+    "@testing-library/jest-dom": "^6.4.5",
+    "vitest": "^1.6.0"
+  }
+}
